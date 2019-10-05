@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mellonis-edu/02-bind.git"
+    "url": "git+https://github.com/mellonis-edu/xml-json.git"
   },
   "author": "Ruslan Gilmullin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mellonis-edu/02-bind/issues"
+    "url": "https://github.com/mellonis-edu/xml-json/issues"
   },
-  "homepage": "https://github.com/mellonis-edu/02-bind#readme",
+  "homepage": "https://github.com/mellonis-edu/xml-json#readme",
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
